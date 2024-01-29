@@ -15,7 +15,6 @@
             color: #333;
         }
 
-        /* Adicione estilos adicionais conforme necessário */
     </style>
 </head>
 <body>
